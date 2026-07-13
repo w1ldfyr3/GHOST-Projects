@@ -1,4 +1,5 @@
-# lol
+# lol. don't look inside
+
 ## In ~~beloved~~ memory of:
 ![lmao](/assets/lmao.png)
 
